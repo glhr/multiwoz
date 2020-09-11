@@ -109,6 +109,14 @@ Python 2 with pip, pytorch==0.4.1
 # Quick start
 In repo directory:
 
+## Install requirements
+
+```
+virtualenv --python=python2 venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+
 ## Preprocessing
 To download and pre-process the data run:
 
