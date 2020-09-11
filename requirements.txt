@@ -1,5 +1,11 @@
-torch
-numpy
-nltk
-scipy
-tqdm
+click==7.1.2
+future==0.18.2
+joblib==0.14.1
+nltk==3.0.0
+numpy==1.16.6
+pkg-resources==0.0.0
+regex==2020.7.14
+scipy==1.2.3
+simplejson==3.17.2
+torch==1.4.0
+tqdm==4.48.2
